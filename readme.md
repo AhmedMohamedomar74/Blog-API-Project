@@ -44,7 +44,7 @@ A Node.js-based RESTful API for managing blog content including posts, comments,
 ### Installation
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone (https://github.com/AhmedMohamedomar74/Blog-API-Project.git)
 ```
 
 2. Install dependencies:
